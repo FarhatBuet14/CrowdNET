@@ -1,0 +1,16 @@
+Gate Classifier Data
+----------------------
+
+Batch 1 - 100 (From internet)
+Batch 2 - 53  (From a hired photographer)
+Batch 3 - 24  (From the hajj group)
+
+
+Train      - 76 (from batch 1 & 2)
+Validation - 38 (from batch 1 & 2)
+Test       - 38 (from batch 1 & 2)
+
+
+gate_2 - 52 (train - 26, test - 13, val - 13)
+gate_1 - 100 (train -50, test - 25, val - 25) 
+total - 152, train - 76, val - 38, test - 38

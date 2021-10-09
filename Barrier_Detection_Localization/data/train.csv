@@ -1,0 +1,129 @@
+file_path,file_name,width,height,x_min,y_min,x_max,y_max,class_name
+../../data/data_labeling/batch_2/gate/image.png,image.png,1280,853,422,567,1280,742,gate
+../../data/data_labeling/batch_2/gate/image.png,image.png,1280,853,3,561,292,622,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.43 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.43 PM.jpeg,1280,852,444,3,971,851,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.43 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.43 PM.jpeg,1280,852,1002,323,1278,849,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.46 PM (2).jpeg,WhatsApp Image 2021-06-02 at 11.02.46 PM (2).jpeg,1280,852,5,287,582,849,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.46 PM (2).jpeg,WhatsApp Image 2021-06-02 at 11.02.46 PM (2).jpeg,1280,852,533,101,1277,851,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.46 PM (3).jpeg,WhatsApp Image 2021-06-02 at 11.02.46 PM (3).jpeg,1280,852,109,217,1275,850,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.46 PM (3).jpeg,WhatsApp Image 2021-06-02 at 11.02.46 PM (3).jpeg,1280,852,0,624,178,850,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.46 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.46 PM.jpeg,1280,852,559,171,1277,850,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.47 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.47 PM.jpeg,1280,852,171,304,436,563,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.47 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.47 PM.jpeg,1280,852,446,137,1279,850,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.49 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.49 PM (1).jpeg,1280,852,304,96,1274,850,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.49 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.49 PM (1).jpeg,1280,852,3,368,309,847,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.49 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.49 PM.jpeg,1280,852,107,316,641,824,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.49 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.49 PM.jpeg,1280,852,656,115,1278,679,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,0,242,1001,799,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,441,648,541,762,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,581,636,632,756,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,307,653,434,764,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,547,642,572,758,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,949,208,1279,816,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,638,645,722,760,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.50 PM (1).jpeg,1280,852,249,662,282,765,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.51 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.51 PM (1).jpeg,1280,852,5,2,776,650,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.52 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.52 PM.jpeg,1280,852,2,75,944,760,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.53 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.53 PM (1).jpeg,1280,852,284,221,1276,619,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.53 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.53 PM.jpeg,1280,852,5,170,1279,848,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.54 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.54 PM.jpeg,1280,852,954,232,1277,765,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.54 PM.jpeg,WhatsApp Image 2021-06-02 at 11.02.54 PM.jpeg,1280,852,6,263,825,702,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.56 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.56 PM (1).jpeg,1280,852,3,579,1277,802,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.56 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.56 PM (1).jpeg,1280,852,756,345,1260,396,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-02 at 11.02.56 PM (1).jpeg,WhatsApp Image 2021-06-02 at 11.02.56 PM (1).jpeg,1280,852,312,347,752,440,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,1280,853,775,334,1049,481,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,1280,853,549,329,769,432,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,1280,853,278,251,1277,444,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.13 AM.jpeg,1280,853,379,309,530,370,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,1280,853,4,407,257,440,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,1280,853,2,454,1272,603,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,1280,853,651,449,719,499,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,1280,853,735,451,1272,503,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,1280,853,103,458,610,575,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,1280,853,14,437,405,510,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.14 AM (1).jpeg,1280,853,13,437,260,472,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.17 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.17 AM (1).jpeg,1280,853,801,134,1278,805,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.17 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.17 AM (1).jpeg,1280,853,3,153,270,738,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.17 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.17 AM (2).jpeg,1280,853,2,120,1278,762,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.18 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.18 AM (2).jpeg,1280,853,529,102,1193,638,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.18 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.18 AM (2).jpeg,1280,853,2,196,295,280,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.18 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.18 AM.jpeg,1280,853,2,182,1276,598,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.19 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.19 AM (2).jpeg,1280,853,1,340,1278,642,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (1).jpeg,1280,853,1,384,1031,588,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (1).jpeg,1280,853,579,399,1030,576,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (1).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (1).jpeg,1280,853,297,464,577,578,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,1280,853,4,240,1278,763,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,1280,853,2,249,240,340,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,1280,853,241,249,308,343,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,1280,853,339,296,950,555,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM (2).jpeg,1280,853,309,263,370,343,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,1280,853,3,361,520,510,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,1280,853,1083,347,1273,490,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,1280,853,754,364,1079,486,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.20 AM.jpeg,1280,853,332,376,518,497,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,1280,853,4,189,782,851,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,1280,853,772,203,1123,851,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,1280,853,0,110,67,184,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,1280,853,67,130,114,186,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,1280,853,91,150,133,205,gate
+../../data/data_labeling/batch_2/gate/WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,WhatsApp Image 2021-06-03 at 11.52.21 AM.jpeg,1280,853,136,163,493,336,gate
+../../data/data_labeling/batch_1/gate/download (1).jpeg,download (1).jpeg,194,259,29,9,173,240,gate
+../../data/data_labeling/batch_1/gate/download (2).jpeg,download (2).jpeg,238,212,22,39,207,188,gate
+../../data/data_labeling/batch_1/gate/download (4).jpeg,download (4).jpeg,203,248,18,10,188,240,gate
+../../data/data_labeling/batch_1/gate/download (5).jpeg,download (5).jpeg,259,194,16,5,246,192,gate
+../../data/data_labeling/batch_1/gate/download (6).jpeg,download (6).jpeg,225,225,4,22,218,197,gate
+../../data/data_labeling/batch_1/gate/download (7).jpeg,download (7).jpeg,225,225,38,80,188,163,gate
+../../data/data_labeling/batch_1/gate/download (11).jpeg,download (11).jpeg,300,168,68,8,235,153,gate
+../../data/data_labeling/batch_1/gate/download.jpeg,download.jpeg,194,259,20,1,173,255,gate
+../../data/data_labeling/batch_1/gate/images (1).jpeg,images (1).jpeg,280,180,92,15,184,151,gate
+../../data/data_labeling/batch_1/gate/images (1).jpeg,images (1).jpeg,280,180,204,49,245,149,gate
+../../data/data_labeling/batch_1/gate/images (1).jpeg,images (1).jpeg,280,180,31,59,74,149,gate
+../../data/data_labeling/batch_1/gate/images (2).jpeg,images (2).jpeg,259,194,87,50,182,161,gate
+../../data/data_labeling/batch_1/gate/images (7).jpeg,images (7).jpeg,184,275,40,42,164,249,gate
+../../data/data_labeling/batch_1/gate/images (8).jpeg,images (8).jpeg,259,194,25,22,255,183,gate
+../../data/data_labeling/batch_1/gate/images (9).jpeg,images (9).jpeg,194,260,34,18,167,255,gate
+../../data/data_labeling/batch_1/gate/images (9).jpeg,images (9).jpeg,194,260,110,81,124,109,gate
+../../data/data_labeling/batch_1/gate/images (11).jpeg,images (11).jpeg,207,243,111,19,195,238,gate
+../../data/data_labeling/batch_1/gate/images (12).jpeg,images (12).jpeg,190,266,19,18,164,251,gate
+../../data/data_labeling/batch_1/gate/images (13).jpeg,images (13).jpeg,194,259,12,10,185,243,gate
+../../data/data_labeling/batch_1/gate/images (18).jpeg,images (18).jpeg,225,225,11,14,211,216,gate
+../../data/data_labeling/batch_1/gate/images (20).jpeg,images (20).jpeg,225,225,43,6,201,184,gate
+../../data/data_labeling/batch_1/gate/images (21).jpeg,images (21).jpeg,259,194,48,25,210,176,gate
+../../data/data_labeling/batch_1/gate/images (24).jpeg,images (24).jpeg,276,183,63,47,222,173,gate
+../../data/data_labeling/batch_1/gate/images (25).jpeg,images (25).jpeg,239,211,15,50,206,194,gate
+../../data/data_labeling/batch_1/gate/images (27).jpeg,images (27).jpeg,311,162,76,27,243,158,gate
+../../data/data_labeling/batch_1/gate/images (30).jpeg,images (30).jpeg,275,183,53,59,233,151,gate
+../../data/data_labeling/batch_1/gate/images (31).jpeg,images (31).jpeg,220,220,27,34,214,211,gate
+../../data/data_labeling/batch_1/gate/images (32).jpeg,images (32).jpeg,259,194,47,52,211,150,gate
+../../data/data_labeling/batch_1/gate/images (33).jpeg,images (33).jpeg,225,225,39,36,147,191,gate
+../../data/data_labeling/batch_1/gate/images (34).jpeg,images (34).jpeg,276,182,100,1,268,170,gate
+../../data/data_labeling/batch_1/gate/images (34).jpeg,images (34).jpeg,276,182,13,25,87,178,gate
+../../data/data_labeling/batch_1/gate/images (37).jpeg,images (37).jpeg,225,225,8,72,218,216,gate
+../../data/data_labeling/batch_1/gate/images (41).jpeg,images (41).jpeg,300,168,64,24,248,164,gate
+../../data/data_labeling/batch_1/gate/images (43).jpeg,images (43).jpeg,271,186,38,33,215,149,gate
+../../data/data_labeling/batch_1/gate/images (44).jpeg,images (44).jpeg,271,186,102,19,171,142,gate
+../../data/data_labeling/batch_1/gate/images (47).jpeg,images (47).jpeg,265,190,42,22,216,166,gate
+../../data/data_labeling/batch_1/gate/images (50).jpeg,images (50).jpeg,275,183,35,70,96,148,gate
+../../data/data_labeling/batch_1/gate/images (50).jpeg,images (50).jpeg,275,183,183,67,220,149,gate
+../../data/data_labeling/batch_1/gate/images (53).jpeg,images (53).jpeg,260,194,36,29,236,166,gate
+../../data/data_labeling/batch_1/gate/images (58).jpeg,images (58).jpeg,259,194,33,36,61,139,gate
+../../data/data_labeling/batch_1/gate/images (58).jpeg,images (58).jpeg,259,194,32,48,71,157,gate
+../../data/data_labeling/batch_1/gate/images (58).jpeg,images (58).jpeg,259,194,82,63,158,163,gate
+../../data/data_labeling/batch_1/gate/images (58).jpeg,images (58).jpeg,259,194,170,44,222,174,gate
+../../data/data_labeling/batch_1/gate/images (59).jpeg,images (59).jpeg,225,225,16,31,211,182,gate
+../../data/data_labeling/batch_1/gate/images (61).jpeg,images (61).jpeg,300,168,136,9,176,97,gate
+../../data/data_labeling/batch_1/gate/images (61).jpeg,images (61).jpeg,300,168,104,58,212,161,gate
+../../data/data_labeling/batch_1/gate/images (64).jpeg,images (64).jpeg,259,195,50,27,210,182,gate
+../../data/data_labeling/batch_1/gate/images (65).jpeg,images (65).jpeg,260,194,40,51,214,155,gate
+../../data/data_labeling/batch_1/gate/images (66).jpeg,images (66).jpeg,275,183,37,27,234,145,gate
+../../data/data_labeling/batch_1/gate/images (67).jpeg,images (67).jpeg,235,215,50,73,186,206,gate
+../../data/data_labeling/batch_1/gate/images (70).jpeg,images (70).jpeg,300,168,112,26,256,141,gate
+../../data/data_labeling/batch_1/gate/images (71).jpeg,images (71).jpeg,259,194,50,21,216,180,gate
+../../data/data_labeling/batch_1/gate/images (76).jpeg,images (76).jpeg,265,190,46,67,239,173,gate
+../../data/data_labeling/batch_1/gate/images (78).jpeg,images (78).jpeg,259,194,12,40,240,171,gate
+../../data/data_labeling/batch_1/gate/images (80).jpeg,images (80).jpeg,225,225,17,40,199,191,gate
+../../data/data_labeling/batch_1/gate/images (82).jpeg,images (82).jpeg,226,223,2,40,216,179,gate
+../../data/data_labeling/batch_1/gate/images (83).jpeg,images (83).jpeg,265,190,45,67,239,175,gate
+../../data/data_labeling/batch_1/gate/images (85).jpeg,images (85).jpeg,259,194,70,63,163,129,gate
+../../data/data_labeling/batch_1/gate/images (85).jpeg,images (85).jpeg,259,194,206,87,239,143,gate
+../../data/data_labeling/batch_1/gate/images.jpeg,images.jpeg,184,274,70,56,167,196,gate
