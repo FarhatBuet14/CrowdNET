@@ -1,3 +1,4 @@
 .vscode/
 *.gitattributes
 *.DS_Store
+*.pth
