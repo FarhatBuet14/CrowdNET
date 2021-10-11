@@ -11,6 +11,6 @@ Validation - 38 (from batch 1 & 2)
 Test       - 38 (from batch 1 & 2)
 
 
+gate_1 - 100 (train -50, test - 25, val - 25)
 gate_2 - 52 (train - 26, test - 13, val - 13)
-gate_1 - 100 (train -50, test - 25, val - 25) 
 total - 152, train - 76, val - 38, test - 38
